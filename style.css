@@ -1,0 +1,43 @@
+body{
+    margin: auto 0;
+    background-color: #FFE7CC;
+}
+img {
+    float: left;
+    width:  60px;
+    height: 60px;
+    object-fit: cover;
+}
+#head
+{
+    font-size: 5rem;
+    text-align: center;
+}
+p{
+    padding: 60px;
+    font-size: 40px;
+}
+#second
+{
+      font-size: 3rem;
+      text-align:center;    
+}
+#git
+{
+    border-radius: 70px;
+}
+.zone
+{
+    
+        cursor:pointer;
+        
+        color:#FFE7CC;
+        font-size:2em;
+        border-radius:4px;
+        border:1px solid;
+        transition: all 0.3s linear;
+}
+footer{
+     margin-left: 660px;
+     
+}
